@@ -1,5 +1,5 @@
 {
-  "name": "eslit-prettier-empty-template",
+  "name": "cra-template-eslit-prettier-empty-template",
   "version": "0.1.0",
   "private": false,
   "dependencies": {
