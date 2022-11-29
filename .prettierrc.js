@@ -1,4 +1,3 @@
-
   module.exports = {
     bracketSpacing: true,
     bracketSameLine: true,
