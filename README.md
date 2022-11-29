@@ -1,1 +1,1 @@
-# Boilerplate
+# New project boilerplate with eslint, airbnb, prettier
