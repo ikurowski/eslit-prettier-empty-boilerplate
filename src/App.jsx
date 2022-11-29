@@ -1,8 +1,7 @@
-import React, { useContext } from 'react';
+import React from 'react';
 
 function App() {
-  const { user, setUser } = useContext('UserContext');
-  return <div>EMPTY!!!!!</div>;
+  return <div> </div>;
 }
 
 export default App;
