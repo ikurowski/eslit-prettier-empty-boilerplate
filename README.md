@@ -4,7 +4,7 @@ Mainly for personal use, but feel free to try it  🙃
 
 ```
 
-npx create-react-app my-app --template [eslit-prettier-empty-template]
+npx create-react-app my-app --template eslit-prettier-empty-template
 
 ```
 
