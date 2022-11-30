@@ -8,7 +8,7 @@ npx create-react-app my-app --template eslit-prettier-template
 ```
 
 
-⚙️ &nbsp; Build in eslint, airbnb and prettier. For more information checkout package.json.
+⚙️ &nbsp; Built-in eslint, airbnb and prettier. For more information checkout package.json.
 
 </br>
 
